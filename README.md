@@ -1,4 +1,4 @@
-<b>👋 Hi, I’m Serena (she/her)</b>
+<h2><b>👋 Hi, I’m Serena (she/her)</b></h2>
 <br>
 ✨I’m studying Engineering @ UWaterloo, Expected Grad in 2025
 <br>
