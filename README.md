@@ -4,7 +4,7 @@
 <br>
 🚗Incoming Intelligent Automation Loblaws, Prev Data @ Toyota Motor Manufacturing Canada, Systems @ Royal Canadian Legion
 <br>
-⚙️Hack the North Organizer
+⚙️<a href="https://hackthenorth.com">Hack the North</a> Organizer
 <br>
 Check out my website: <a href="https://serenapang.com"> ✨here!✨</a>
 <br>
