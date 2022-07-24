@@ -1,8 +1,8 @@
-👋 Hi, I’m Serena (she/her)
+<b>👋 Hi, I’m Serena (she/her)</b>
 <br>
 ✨I’m studying Engineering @ UWaterloo, Expected Grad in 2025
 <br>
-🚗Returning @ Toyota Motor Manufacturing Canada, Previously @ Royal Canadian Legion
+🚗Incoming Intelligent Automation Loblaws, Prev Data @ Toyota Motor Manufacturing Canada, Systems @ Royal Canadian Legion
 <br>
 Check out my website: <a href="https://serenapang.com"> ✨here!✨</a>
 <br>
