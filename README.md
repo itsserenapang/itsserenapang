@@ -2,7 +2,7 @@
 <br>
 ✨Engineering @ UWaterloo
 <br>
-🚗Incoming Intelligent Automation Loblaws, Prev Data @ Toyota Motor Manufacturing Canada, Systems @ Royal Canadian Legion
+🚗 Prev Intelligent Automation @ Loblaws, Data @ Toyota Motor Manufacturing Canada, Systems @ Royal Canadian Legion
 <br>
 ⚙️<a href="https://hackthenorth.com">Hack the North</a> Organizer
 <br>
